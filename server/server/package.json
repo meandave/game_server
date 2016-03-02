@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "david"
+  },
+  "dependencies": {
+    "binary-parser": "^1.1.5",
+    "extend": "^3.0.0",
+    "minimist": "^1.2.0",
+    "mongoose": "^4.4.5",
+    "underscore": "^1.8.3"
+  },
+  "description": "game server",
+  "main": "app.js",
+  "name": "server",
+  "version": "0.0.1"
+}
